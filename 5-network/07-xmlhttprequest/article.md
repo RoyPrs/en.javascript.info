@@ -261,7 +261,7 @@ There are 3 methods for HTTP-headers:
     ```
 
     ````warn header="Can't remove a header"
-    Another peciliarity of `XMLHttpRequest` is that one can't undo `setRequestHeader`.
+    Another peculiarity of `XMLHttpRequest` is that one can't undo `setRequestHeader`.
 
     Once the header is set, it's set. Additional calls add information to the header, don't overwrite it.
 
